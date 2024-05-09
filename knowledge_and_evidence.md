@@ -48,7 +48,7 @@ Address the following tasks and questions based on the code provided in this rep
 2. Run the project locally by executing the `main.py` file
 3. Evidence this by providing screenshots of the project directory structure and the output of the `main.py` file
 
-![Local Execution](screenshots/local_setup.png)
+![Local Execution](screenshots/ScreenshotFirst.png)
 
 If you are running on a Raspberry Pi, you can use the following command to run the project and then screenshot the result:
 
