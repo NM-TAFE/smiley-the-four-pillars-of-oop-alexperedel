@@ -63,11 +63,13 @@ python3 main.py
 
 1. List all the classes you identified in the project. Indicate which classes are base classes and which are subclasses. For subclasses, identify all direct base classes. Use the following table for your answers:
 
-| Class Name | Super or Sub? | Direct parent(s) |
-| ---------- | ------------- | ---------------- |
-| NotReal    | Sub           | NotRealParent    |
-|            |               |                  |
-|            |               |                  |
+| Class Name | Super or Sub? | Direct parent(s)  |
+| ---------- |---------------|-------------------|
+| Blinkable  | Sub           | ABC               |
+|  Happy     | Sub           | Smiley, Blinkable |
+| Sad        | Sub           | Smiley            |
+| SenseHat   | Super         | -                 |
+| Smiley     | Super         | -                 |
 
 ...
 
